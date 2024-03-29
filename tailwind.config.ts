@@ -18,8 +18,8 @@ const config: Config = {
         "Very-Dark-Violet": "hsl(260, 8%, 14%)",
       },
       backgroundImage: {
-        "Boost-Mobile": "url('/public/images/bg-boost-mobile.svg')",
-        "Boost-Desktop": "url(/public/images/bg-boost-desktop.svg)",
+        "Boost-Mobile": "url('/images/bg-boost-mobile.svg')",
+        "Boost-Desktop": "url(/images/bg-boost-desktop.svg)",
       },
     },
   },
