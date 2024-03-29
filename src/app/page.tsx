@@ -1,5 +1,6 @@
 import Advstats from "./sections/advstats";
 import Boost from "./sections/boost";
+import Footer from "./sections/footer";
 import Hero from "./sections/hero";
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
       <Hero />
       <Advstats />
       <Boost />
+      <Footer />
     </main>
   );
 }
