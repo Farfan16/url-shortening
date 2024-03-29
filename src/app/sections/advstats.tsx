@@ -29,7 +29,7 @@ const benefits = [
 
 const Advstats = () => {
   return (
-    <section className="flex flex-col items-center justify-center text-center gap-12 bg-gray-200 p-6">
+    <section className="flex flex-col items-center justify-center text-center gap-12 bg-gray-200 p-6 py-20 pt-36">
       <div className="flex flex-col items-center justify-center gap-6">
         <h3 className="text-Very-Dark-Violet font-bold text-2xl">
           Advanced statistics

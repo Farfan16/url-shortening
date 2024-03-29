@@ -4,7 +4,7 @@ import Button from "../components/Button";
 
 const Hero = () => {
   return (
-    <section className="flex flex-col items-center bg-white gap-6 p-6 min-w-full">
+    <section className="flex flex-col items-center bg-white gap-6 p-6 py-36 min-w-full">
       <div className="image translate-x-8 w-96 h-full">
         <Image
           src={WorkingIllus}
